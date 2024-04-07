@@ -1,2 +1,1 @@
-WILL ADD IMAGES SOON.
-install requuired libraries in thonny ide.
+URL TO VIDEO DEMO: https://youtu.be/ZNcEXI4ivFs
